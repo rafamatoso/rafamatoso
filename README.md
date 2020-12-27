@@ -62,7 +62,3 @@
 
 [![Linkedin: rafamatoso](https://img.shields.io/badge/-rafamatoso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamatoso/)](https://www.linkedin.com/in/rafamatoso/)
 [![Instagram: oirafamatoso](https://img.shields.io/badge/-oirafamatoso-white?style=flat&logo=Instagram&link=https://www.instagram.com/oirafamatoso/)](https://www.instagram.com/oirafamatoso/)
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="rafamatoso"><a class="LI-simple-link" href='https://br.linkedin.com/in/rafamatoso?trk=profile-badge'>Rafael Matoso</a></div>
