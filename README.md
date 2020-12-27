@@ -11,9 +11,9 @@
 
 ## My Tech Profile
 
-**Languages:**
+### Languages
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row; padding: 10px 0;">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="padding-right: 5px" />
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="padding-right: 5px"/>
@@ -22,17 +22,24 @@
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" style="padding-right: 5px"/>
 </div>
 
-**Libs & Frameworks:**
+---
 
+### Libs & Frameworks
+
+<div style="display: flex; flex-direction: row; padding: 10px 0;">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+</div>
 
-**Databases, tools and others:**
+---
 
+### Databases, tools and others
+
+<div style="display: flex; flex-direction: row; padding: 10px 0;">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="padding-right: 5px"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="padding-right: 5px"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" style="padding-right: 5px"/>
@@ -42,6 +49,7 @@
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+</div>
 
 ---
 
@@ -50,7 +58,11 @@
 
 ---
 
-**Professional & Social Network:**
+### Professional & Social Network
 
 [![Linkedin: rafamatoso](https://img.shields.io/badge/-rafamatoso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamatoso/)](https://www.linkedin.com/in/rafamatoso/)
 [![Instagram: oirafamatoso](https://img.shields.io/badge/-oirafamatoso-white?style=flat&logo=Instagram&link=https://www.instagram.com/oirafamatoso/)](https://www.instagram.com/oirafamatoso/)
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="rafamatoso"><a class="LI-simple-link" href='https://br.linkedin.com/in/rafamatoso?trk=profile-badge'>Rafael Matoso</a></div>
