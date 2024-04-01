@@ -1,13 +1,13 @@
-# Hello world, I'm Rafa 👋🏼
+# Hello world, I'm Rafa Matoso 👋🏼
 
 ## About Me
 
-- I'm brazilian 🇧🇷 and I'm 32 years old. I came from the civil engineering area, but computing is what I love ❤️!
+- I'm brazilian 🇧🇷 and I'm 35 years old. I came from the civil engineering area, but computing is what I love ❤️!
 - I have a degree in <b>Information Technology Management</b> 📚.
-- I'm a Software Engineer (Front-end) at <b><a href="https://www.linkedin.com/company/concretebr/">Concrete Solutions</a></b> 💜.
-- I'm currently working on a web project for a renowned brazilian bank.
+- I'm a Software Engineer Analyst Senior, Front-End specialist at Accenture.
 
----
+[![Linkedin: rafamatoso](https://img.shields.io/badge/-rafamatoso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamatoso/)](https://www.linkedin.com/in/rafamatoso/)
+[![Instagram: oirafamatoso](https://img.shields.io/badge/-oirafamatoso-white?style=flat&logo=Instagram&link=https://www.instagram.com/oirafamatoso/)](https://www.instagram.com/oirafamatoso/)
 
 ## My Tech Profile
 
@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" style="padding-right: 5px"/>
 </div>
 
----
-
 ### Libs & Frameworks
 
 <div style="display: flex; flex-direction: row; padding: 10px 0;">
@@ -34,8 +32,6 @@
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="padding-right: 5px"/>
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 </div>
-
----
 
 ### Databases, tools and others
 
@@ -57,8 +53,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamatoso&layout=compact&langs_count=8&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### Professional & Social Network
-
-[![Linkedin: rafamatoso](https://img.shields.io/badge/-rafamatoso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamatoso/)](https://www.linkedin.com/in/rafamatoso/)
-[![Instagram: oirafamatoso](https://img.shields.io/badge/-oirafamatoso-white?style=flat&logo=Instagram&link=https://www.instagram.com/oirafamatoso/)](https://www.instagram.com/oirafamatoso/)
