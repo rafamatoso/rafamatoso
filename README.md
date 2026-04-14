@@ -37,10 +37,10 @@
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" style="padding-right: 5px"/>
 </div>
 
----
+<!---
 
 ![Rafael Matoso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamatoso&show_icons=true&hide_border=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamatoso&layout=compact&langs_count=8&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamatoso&layout=compact&langs_count=8&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
