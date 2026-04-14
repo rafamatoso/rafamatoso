@@ -2,7 +2,6 @@
 
 ### About Me
 
-- I'm brazilian 🇧🇷 and I'm 35 years old. I came from the civil engineering area, but computing is what I love ❤️!
 - I have a degree in <b>Information Technology Management</b> 📚.
 - I'm a Software Engineer Analyst Senior, Front-End specialist at Accenture.
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bda26d6e-ba52-4619-933d-103e5cce93ea/public_url)
